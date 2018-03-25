@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
                 count2.setText(String.valueOf(score2));
             }
         });
-
+ //comment
 
     }
 }
